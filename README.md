@@ -1,11 +1,11 @@
-### Hello 👋
+## Hello 👋
 
 I'm Marcus, a junior at Columbia University.
 
 I'm interested in theoretical computer science, systems design, and computational neuroscience. 
 
 
-### My GitHub at a glance
+### My GitHub at a Glance
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusm117&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&show_owner=false) 
 
