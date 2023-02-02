@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=marcusm117&count_private=true&show_icons=true&theme=transparent&include_all_commits=true) 
+I'm Marcus, a junior at Columbia University interested in theoretical computer science, systems design, and computational neuroscience. 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusm117&count_private=true&show_icons=true&theme=transparent&include_all_commits=true) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusm117&langs_count=8&theme=transparent)
 
