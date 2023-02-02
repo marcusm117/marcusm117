@@ -7,7 +7,7 @@ I'm interested in theoretical computer science, systems design, and computationa
 
 ### My GitHub at a Glance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusm117&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&show_owner=false) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusm117&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusm117&langs_count=8&theme=transparent)
 
