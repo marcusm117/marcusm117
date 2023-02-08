@@ -2,7 +2,7 @@
 
 I'm Marcus, a junior at Columbia University.
 
-I'm interested in Theoretical Computer Science, Systems Design, and Computational Neuroscience. 
+I'm interested in Theoretical Computer Science and Systems Design. 
 
 
 ### My GitHub at a Glance
