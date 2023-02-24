@@ -1,8 +1,6 @@
 ## Hello 👋
 
-I'm Marcus, a junior at Columbia University.
-
-I'm interested in Logic, Systems Design, and Neural Computation. 
+I'm Marcus, a junior at Columbia University interested in Logic, Systems Design, and Neural Computation. 
 
 
 ### My GitHub at a Glance
