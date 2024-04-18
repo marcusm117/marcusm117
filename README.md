@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Marcus, an undergrad at Columbia University interested in Deep Learning, Logic, and Programming Languages.
+I'm Marcus. I'm working on Neurosymbolic AI for Formal Languages.
 
 
 ### My GitHub at a Glance
