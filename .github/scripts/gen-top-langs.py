@@ -138,8 +138,8 @@ for i, l in enumerate(top):
 svg = f"""\
       <svg
         width="350"
-        height="215"
-        viewBox="0 0 350 215"
+        height="220"
+        viewBox="0 0 350 220"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
