@@ -11,7 +11,7 @@ import json, math, os, urllib.request
 USERNAME = os.environ["GITHUB_REPOSITORY_OWNER"]
 TOKEN = os.environ["STATS_TOKEN"]
 OUTPUT = os.environ.get("OUTPUT_PATH", "profile/top-langs.svg")
-HIDE = {"Makefile", "HTML"}
+HIDE = {"Makefile", "HTML", "TeX", "Jupyter Notebook"}
 LANGS_COUNT = 5
 SIZE_WEIGHT = 0.5
 COUNT_WEIGHT = 0.5
