@@ -1,4 +1,12 @@
-## Hi there 👋
+## My GitHub at a Glance
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=220 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=220 align="center" src="./profile/top-langs.svg" />
+</a>
+
 
 <!--
 **marcusm117/marcusm117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
